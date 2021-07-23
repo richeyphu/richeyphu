@@ -6,7 +6,7 @@
 <!-- [richeyphu's GitHub stats](https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true) -->
 <!-- [![richeyphu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richeyphu)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richeyphu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Page views](https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=stray🐈+→+no.) <!-- Start counting on 19/7/2564 -->
+![Profile views](https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=stray🐈+→+no.) <!-- Start counting on 19/7/2564 -->
 
 <!--
 **richeyphu/richeyphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
