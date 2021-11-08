@@ -9,10 +9,10 @@
 [![Medium](https://img.shields.io/badge/-Medium-black.svg?style=for-the-badge&logo=medium&colorB=222)](https://medium.com/@akaraX)
 
 ## 📊 Stats
-<!-- [richeyphu's GitHub stats](https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true) -->
-<!-- [![richeyphu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richeyphu)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![richeyphu's GitHub stats](https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richeyphu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Profile views](https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=stray🐈+→+no.) <!-- Start counting on 19/7/2564 -->
+<!-- [![richeyphu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richeyphu)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
