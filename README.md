@@ -7,6 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://richeyphu.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akaraX)
+[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/akarax)
 
 ## 📊 Stats
 <!-- ![richeyphu's GitHub stats](https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true) -->
