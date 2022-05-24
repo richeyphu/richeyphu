@@ -11,7 +11,12 @@
 
 ## 📊 Stats
 <!-- ![richeyphu's GitHub stats](https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richeyphu&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)<br>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richeyphu&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github-readme-stats.vercel.app/api/top-langs/?username=richeyphu&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=dark)">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richeyphu&layout=compact&langs_count=6&hide=jupyter%20notebook">
+</picture>
+
 ![Profile views](https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=stray🐈+→+no.) <!-- Start counting on 19/7/2564 -->
 <!-- [![richeyphu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richeyphu)](https://github.com/anuraghazra/github-readme-stats) -->
 
