@@ -13,8 +13,8 @@
 ## 📊 Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true&count_private=true&include_all_commits=false&theme=radical">
-    <img alt="richeyphu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true&count_private=true&include_all_commits=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
+    <img alt="richeyphu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true&count_private=true&include_all_commits=true">
   </picture>
   <br/>
   <picture>
