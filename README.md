@@ -24,6 +24,14 @@
   <br/>  
   <img src="https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=stray🐈+→+no." alt="Profile views">
 </p>
+<details>
+<summary></summary>
+<p align="center">
+
+[![@phuritd's Holopin board](https://holopin.io/api/user/board?user=phuritd)](https://holopin.io/@phuritd)
+
+</p>
+</details>
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=stray🐈+→+no.) <!-- Start counting on 19/7/2564 -->
 <!-- [![richeyphu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richeyphu)](https://github.com/anuraghazra/github-readme-stats) -->
