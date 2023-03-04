@@ -12,9 +12,9 @@
 <details>
 <summary><b>SaaS</b></summary>
 
-- [Thai Regex Dict 🇹🇭](https://github.com/richeyphu/thai-regex-dict)
-- [Loremity ♾️](https://github.com/richeyphu/loremity)
-- [πery 🥧](https://github.com/richeyphu/piery)
+- [Thai Regex Dict 🇹🇭](https://thai-regex-dict.vercel.app/)
+- [Loremity ♾️](https://loremity.vercel.app/)
+- [πery 🥧](https://piery.vercel.app/)
 
 </details>
 
@@ -31,8 +31,8 @@
 <details>
 <summary><b>Packages</b></summary>
 
-- [express-now 📊](https://github.com/richeyphu/express-now)
-- [PowBigInt.js 🧮](https://github.com/richeyphu/PowBigInt.js)
+- [express-now 📊](https://www.npmjs.com/package/express-now)
+- [PowBigInt.js 🧮](https://www.npmjs.com/package/powbigint)
   
 </details>
 
