@@ -13,7 +13,7 @@
 <summary><b>SaaS</b></summary>
 
 - [Thai Regex Dict 🇹🇭](https://github.com/richeyphu/thai-regex-dict)
-- [Loremity 📜](https://github.com/richeyphu/loremity)
+- [Loremity ♾️](https://github.com/richeyphu/loremity)
 - [πery 🥧](https://github.com/richeyphu/piery)
 
 </details>
