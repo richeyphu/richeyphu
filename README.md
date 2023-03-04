@@ -1,6 +1,3 @@
-<!--
-### Hi there 👋
--->
 ## Hi there 👋 (・ω・)
 
 ***Lorem ipsum*** *dolor sit amet*, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -10,7 +7,52 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akaraX)
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/akarax)
 
+## ✨ Projects
+
+<details>
+<summary>
+<b>SaaS</b>
+</summary>
+  
+- [Thai Regex Dict](https://github.com/richeyphu/thai-regex-dict)
+- [Loremity](https://github.com/richeyphu/loremity)
+- [πery](https://github.com/richeyphu/piery)
+  
+</details>
+
+<details>
+<summary>
+<b>Tools</b>
+</summary>
+  
+- [pyurlfuzzer](https://github.com/richeyphu/pyurlfuzzer)
+- [noicesoup](https://github.com/richeyphu/noicesoup)
+  
+</details>
+
+<details>
+<summary>
+<b>Packages</b>
+</summary>
+  
+- [express-now](https://github.com/richeyphu/express-now)
+- [PowBigInt.js](https://github.com/richeyphu/PowBigInt.js)
+  
+</details>
+
+<details>
+<summary>
+<b>Random</b>
+</summary>
+  
+- [Comcraft API](https://github.com/richeyphu/express-comcraft)
+- [Slaviii](https://github.com/richeyphu/Slaviii)
+- [RRRaaSSs🕺](https://rrraass.vercel.app/)  
+  
+</details>
+
 ## 📊 Stats
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=richeyphu&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
@@ -24,6 +66,7 @@
   <br/>  
   <img src="https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=stray🐈+→+no." alt="Profile views">
 </p>
+
 <details>
 <summary></summary>
 <p align="center">
