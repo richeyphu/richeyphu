@@ -39,6 +39,7 @@
 <details>
 <summary><b>Random</b></summary>
 
+- [WatchDoge 🐶](https://github.com/richeyphu/WatchDoge)
 - [Comcraft API 🖥️](https://github.com/richeyphu/express-comcraft)
 - [Slaviii 😺](https://github.com/richeyphu/Slaviii)
 - [RRRaaSSs 🕺](https://rrraass.vercel.app/)  
