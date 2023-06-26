@@ -39,6 +39,7 @@
 <details>
 <summary><b>Random</b></summary>
 
+- [GetMotivated ⚔️](https://github.com/richeyphu/GetMotivated)
 - [WatchDoge 🐶](https://github.com/richeyphu/WatchDoge)
 - [Comcraft API 🖥️](https://github.com/richeyphu/express-comcraft)
 - [Slaviii 😺](https://github.com/richeyphu/Slaviii)
