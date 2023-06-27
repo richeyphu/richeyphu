@@ -31,6 +31,7 @@
 <details>
 <summary><b>Packages</b></summary>
 
+- [dechroma 🎥](https://www.npmjs.com/package/dechroma)
 - [express-now 📊](https://www.npmjs.com/package/express-now)
 - [PowBigInt.js 🧮](https://www.npmjs.com/package/powbigint)
   
