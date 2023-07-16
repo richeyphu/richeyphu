@@ -31,7 +31,7 @@
 <details>
 <summary><b>Packages</b></summary>
 
-- [dechroma 🎥](https://www.npmjs.com/package/dechroma)
+- [dechroma.js 🎥](https://www.npmjs.com/package/dechroma)
 - [express-now 📊](https://www.npmjs.com/package/express-now)
 - [PowBigInt.js 🧮](https://www.npmjs.com/package/powbigint)
   
@@ -40,6 +40,7 @@
 <details>
 <summary><b>Random</b></summary>
 
+- [KV Counter 🔢](https://github.com/richeyphu/kv-counter)
 - [GetMotivated ⚔️](https://github.com/richeyphu/GetMotivated)
 - [WatchDoge 🐶](https://github.com/richeyphu/WatchDoge)
 - [Comcraft API 🖥️](https://github.com/richeyphu/express-comcraft)
