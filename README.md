@@ -62,7 +62,7 @@
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richeyphu&layout=compact&langs_count=6&hide=jupyter%20notebook">
   </picture>
   <br/>  
-  <img src="https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=stray🐈+→+no." alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=richeyphu&color=ff69b4&label=+++++🐈+no.+→" alt="Profile views">
 </p>
 
 <details>
