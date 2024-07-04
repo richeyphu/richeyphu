@@ -15,6 +15,7 @@
 - [Thai Regex Dict 🇹🇭](https://thai-regex-dict.vercel.app/)
 - [Loremity ♾️](https://loremity.vercel.app/)
 - [πery 🥧](https://piery.vercel.app/)
+- [wallpaper a day 🖼️](https://wallpaper-a-day.vercel.app/)
 
 </details>
 
