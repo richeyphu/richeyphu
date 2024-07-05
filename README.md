@@ -46,7 +46,8 @@
 - [WatchDoge 🐶](https://github.com/richeyphu/WatchDoge)
 - [Comcraft API 🖥️](https://github.com/richeyphu/express-comcraft)
 - [Slaviii 😺](https://github.com/richeyphu/Slaviii)
-- [RRRaaSSs 🕺](https://rrraass.vercel.app/)  
+- [RRRaaSSs 🕺](https://rrraass.vercel.app/)
+- [Translation Archive 📚](https://richeyphu.github.io/translation-archive/)
 
 </details>
 
