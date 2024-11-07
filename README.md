@@ -16,6 +16,7 @@
 - [Loremity ♾️](https://loremity.vercel.app/)
 - [πery 🥧](https://piery.vercel.app/)
 - [wallpaper a day 🖼️](https://wallpaper-a-day.vercel.app/)
+- [ReLEx Trainer 👓](https://relex-trainer.vercel.app/)
 
 </details>
 
