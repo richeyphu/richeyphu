@@ -10,7 +10,7 @@
 ## ✨ Projects
 
 <details>
-<summary><b>SaaS</b></summary>
+<summary><b>☁️ SaaS</b></summary>
 
 - [Thai Regex Dict 🇹🇭](https://thai-regex-dict.vercel.app/)
 - [Loremity ♾️](https://loremity.vercel.app/)
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary><b>Tools</b></summary>
+<summary><b>🛠️ Tools</b></summary>
 
 - [pyurlfuzzer 👾](https://github.com/richeyphu/pyurlfuzzer)
 - [noicesoup 🍲](https://github.com/richeyphu/noicesoup)
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary><b>Packages</b></summary>
+<summary><b>📦 Packages</b></summary>
 
 - [dechroma.js 🎥](https://www.npmjs.com/package/dechroma)
 - [express-now 📊](https://www.npmjs.com/package/express-now)
@@ -40,7 +40,14 @@
 </details>
 
 <details>
-<summary><b>Random</b></summary>
+<summary><b>🤖 Actions</b></summary>
+
+- [Sync Package Version 🔄](https://github.com/marketplace/actions/sync-package-version)
+
+</details>
+
+<details>
+<summary><b>🎲 Random</b></summary>
 
 - [KV Counter 🔢](https://github.com/richeyphu/kv-counter)
 - [GetMotivated ⚔️](https://github.com/richeyphu/GetMotivated)
